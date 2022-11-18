@@ -1,0 +1,2 @@
+JMH S 21 com.nerfe.PrimeNumber S 52 com.nerfe.jmh_generated.PrimeNumber_version1_jmhTest S 8 version1 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 21 com.nerfe.PrimeNumber S 52 com.nerfe.jmh_generated.PrimeNumber_version2_jmhTest S 8 version2 S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
